@@ -5,3 +5,7 @@ body {
     font-family: serif;
     padding: 3em;
 }
+
+h1 {
+    font-family: sans-serif;
+}
